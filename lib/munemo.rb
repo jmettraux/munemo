@@ -26,7 +26,7 @@
 
 module Munemo
 
-  VERSION = '1.0.0'
+  VERSION = '1.0.1'
 
   SYLS = %w[
      ba  bi  bu  be  bo

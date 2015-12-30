@@ -30,7 +30,7 @@ A successor to rufus-mnemo.
   #s.add_runtime_dependency 'tzinfo'
 
   #s.add_development_dependency 'rake'
-  s.add_development_dependency 'rspec', '~> 2.13'
+  s.add_development_dependency 'rspec', '3.4.0'
 
   s.require_path = 'lib'
 end
