@@ -6,7 +6,12 @@ VERSION = \
 
 
 gemspec_validate:
+	@echo "---"
 	ruby -e "s = eval(File.read(Dir['*.gemspec'].first)); p s.validate"
+	@echo "---"
+
+name:
+	@echo "$(NAME) $(VERSION)"
 
 build: gemspec_validate
 	gem build $(NAME).gemspec
