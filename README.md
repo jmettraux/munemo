@@ -1,7 +1,7 @@
 
 # munemo
 
-A port of [mnemo](https://github.com/flon-io/mnemo) from C to Ruby. Mnemo and Munemo are reworked versions of [rufus-mnemo](https://github.com/jmettraux/rufus-mnemo).
+A port of [mnemo](https://github.com/flon-io/mnemo) from C to Ruby. Mnemo and munemo are reworked versions of [rufus-mnemo](https://github.com/jmettraux/rufus-mnemo).
 
 Munemo uses the following syllables to map integer numbers to strings.
 ```ruby
