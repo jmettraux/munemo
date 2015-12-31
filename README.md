@@ -1,6 +1,8 @@
 
 # munemo
 
+[![Build Status](https://secure.travis-ci.org/jmettraux/munemo.png)](http://travis-ci.org/jmettraux/raabro)
+
 A port of [mnemo](https://github.com/flon-io/mnemo) from C to Ruby. Mnemo and munemo are reworked versions of [rufus-mnemo](https://github.com/jmettraux/rufus-mnemo).
 
 Munemo uses the following syllables to map integer numbers to strings.
