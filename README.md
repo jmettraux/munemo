@@ -1,7 +1,8 @@
 
 # munemo
 
-[![Build Status](https://secure.travis-ci.org/jmettraux/munemo.png)](http://travis-ci.org/jmettraux/raabro)
+[![Build Status](https://secure.travis-ci.org/jmettraux/munemo.svg)](http://travis-ci.org/jmettraux/raabro)
+[![Gem Version](https://badge.fury.io/rb/munemo.svg)](http://badge.fury.io/rb/munemo)
 
 A port of [mnemo](https://github.com/flon-io/mnemo) from C to Ruby. Mnemo and munemo are reworked versions of [rufus-mnemo](https://github.com/jmettraux/rufus-mnemo).
 
