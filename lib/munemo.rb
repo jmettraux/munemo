@@ -22,6 +22,8 @@
 # Made in Japan.
 #++
 
+require 'stringio'
+
 
 module Munemo
 

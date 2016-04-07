@@ -4,6 +4,8 @@
 
 == munemo 1.0.1  not yet released
 
+- require 'stringio'
+
 
 == munemo 1.0.0  released 2015-12-29
 
