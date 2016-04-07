@@ -1,0 +1,11 @@
+
+= munemo CHANGELOG.txt
+
+
+== munemo 1.0.1  not yet released
+
+
+== munemo 1.0.0  released 2015-12-29
+
+- initial release
+
