@@ -2,7 +2,7 @@
 = munemo CHANGELOG.txt
 
 
-== munemo 1.0.1  not yet released
+== munemo 1.0.1  released 2016-04-08
 
 - require 'stringio'
 
