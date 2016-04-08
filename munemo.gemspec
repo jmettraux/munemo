@@ -22,7 +22,7 @@ A successor to rufus-mnemo.
 
   #s.files = `git ls-files`.split("\n")
   s.files = Dir[
-    'Rakefile',
+    'Makefile',
     'lib/**/*.rb', #'spec/**/*.rb', 'test/**/*.rb',
     '*.gemspec', '*.txt', '*.rdoc', '*.md'
   ]
