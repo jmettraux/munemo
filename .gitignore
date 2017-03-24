@@ -1,4 +1,8 @@
 
+.bxsinfo
+.errors
+.rspec.out
+
 .rspec
 Gemfile.lock
 
