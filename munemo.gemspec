@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.authors = [ 'John Mettraux' ]
   s.email = [ 'jmettraux@gmail.com' ]
   s.homepage = 'http://github.com/jmettraux/munemo'
-  s.rubyforge_project = 'rufus'
+  #s.rubyforge_project = 'rufus'
   s.license = 'MIT'
   s.summary = 'turns integer into somewhat japanese sounding strings'
 
@@ -22,9 +22,11 @@ A successor to rufus-mnemo.
 
   #s.files = `git ls-files`.split("\n")
   s.files = Dir[
+    'README.{md,txt}',
+    'CHANGELOG.{md,txt}', 'CREDITS.{md,txt}', 'LICENSE.{md,txt}',
     'Makefile',
     'lib/**/*.rb', #'spec/**/*.rb', 'test/**/*.rb',
-    '*.gemspec', '*.txt', '*.rdoc', '*.md'
+    "#{s.name}.gemspec",
   ]
 
   #s.add_runtime_dependency 'tzinfo'
