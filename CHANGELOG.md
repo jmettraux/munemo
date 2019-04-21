@@ -1,5 +1,5 @@
 
-# munemo CHANGELOG.txt
+# CHANGELOG.md
 
 
 ## munemo 1.0.1  released 2016-04-08
